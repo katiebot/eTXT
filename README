@@ -1,0 +1,5 @@
+I had to use the Telecom eTXT service for a project and couldnt find any documentation
+on sending via email without using an email client. Should have been simple using the
+mail() function, but was failing without the Return Path and -f option.
+
+See http://docs.bulletinwireless.net/display/TNZ/Telecom+eTXT+-+User+Guide
